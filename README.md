@@ -1,4 +1,3 @@
-![Screenshot (30)](https://github.com/baskarsaraswathy/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/144871005/d554e285-ccf6-4a7f-b71f-e11582ec4b76)# EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 
 ## AIM:
